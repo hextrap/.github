@@ -74,20 +74,6 @@ export GOPROXY=https://USERNAME:PASSWORD@go.hextrap.com,direct
 
 5. Install packages as usual &mdash; hextrap handles the rest
 
-## Pricing
-
-| | Open Source | Small Team | Enterprise |
-|---|---|---|---|
-| **Price** | Free | $49/month | Custom |
-| **Firewalls** | 1 | 5 | Unlimited |
-| **Users** | 1 | Up to 10 | Unlimited |
-| **SSO** | Google OAuth | OIDC | SAML & OIDC |
-| **Allow/Deny Lists** | Yes | Yes | Yes |
-| **Typosquat Detection** | Yes | Yes | Yes |
-| **Malware Blocking** | Yes | Yes | Yes |
-| **MCP Server** | Yes | Yes | Yes |
-
-[See full pricing details &rarr;](https://hextrap.com/pricing/)
 
 ## Resources
 
