@@ -1,7 +1,7 @@
 
 ## What is hextrap?
 
-hextrap is a software supply chain security platform that sits between your package manager and the upstream registry. Instead of scanning for known vulnerabilities after the fact, hextrap prevents malicious, typosquatted, and risky packages from reaching your codebase in the first place.
+[hextrap](https://hextrap.com) is a cybersecurity platform that sits between your package manager and the upstream registry. Instead of scanning for known vulnerabilities after the fact, hextrap prevents malicious, typosquatted, and risky packages from reaching your codebase in the first place.
 
 It works with the tools you already use &mdash; no agents to install, no code changes required. Point your package manager at your hextrap firewall and every install is checked against your security policies in real time.
 
